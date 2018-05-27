@@ -4,7 +4,7 @@ import brands from '@fortawesome/fontawesome-free-brands';
 import regular from "@fortawesome/fontawesome-pro-regular";
 import solid from "@fortawesome/fontawesome-pro-solid";
 
-export const configureFontAwesomePro = ( prefixType = "regular" ) => {
+export const configureFontAwesomeFree = ( prefixType = "regular" ) => {
   fontawesome.config = {
     familyPrefix: prefixTypes[prefixType]
   };
