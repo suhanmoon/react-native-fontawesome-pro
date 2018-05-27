@@ -1,5 +1,5 @@
 import Icon from './Icon';
 export default Icon;
 
-import { configureFontAwesomePro } from "./config";
-export { configureFontAwesomePro };
+import { configureFontAwesomeFree } from "./config";
+export { configureFontAwesomeFree };
